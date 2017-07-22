@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 2ad5b230a704a27468cb0c73b0396add
+timeCreated: 1500720564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objAreaFountain
+    100004: objBench
+    100006: objBollard
+    100008: objBuilding
+    100010: objBuildingEntrance
+    100012: objBusStop
+    100014: objChainLinkFence
+    100016: objForest
+    100018: objHedge
+    100020: objPoleFence
+    100022: objPoleFence_MeshPart0
+    100024: objPoleFence_MeshPart1
+    100026: objPool
+    100028: objRetainingWall
+    100030: objRoad
+    100032: objRoadArea
+    100034: objRoadConnector
+    100036: objRoadCrossingAtConnector
+    100038: objRoadJunction
+    100040: objSurfaceArea
+    100042: objSurfaceParking
+    100044: objTree
+    100046: objWall
+    100048: objWater
+    100050: Sky01
+    400000: //RootNode
+    400002: objAreaFountain
+    400004: objBench
+    400006: objBollard
+    400008: objBuilding
+    400010: objBuildingEntrance
+    400012: objBusStop
+    400014: objChainLinkFence
+    400016: objForest
+    400018: objHedge
+    400020: objPoleFence
+    400022: objPoleFence_MeshPart0
+    400024: objPoleFence_MeshPart1
+    400026: objPool
+    400028: objRetainingWall
+    400030: objRoad
+    400032: objRoadArea
+    400034: objRoadConnector
+    400036: objRoadCrossingAtConnector
+    400038: objRoadJunction
+    400040: objSurfaceArea
+    400042: objSurfaceParking
+    400044: objTree
+    400046: objWall
+    400048: objWater
+    400050: Sky01
+    2300000: objAreaFountain
+    2300002: objBench
+    2300004: objBollard
+    2300006: objBuilding
+    2300008: objBuildingEntrance
+    2300010: objBusStop
+    2300012: objChainLinkFence
+    2300014: objForest
+    2300016: objHedge
+    2300018: objPoleFence_MeshPart0
+    2300020: objPoleFence_MeshPart1
+    2300022: objPool
+    2300024: objRetainingWall
+    2300026: objRoad
+    2300028: objRoadArea
+    2300030: objRoadConnector
+    2300032: objRoadCrossingAtConnector
+    2300034: objRoadJunction
+    2300036: objSurfaceArea
+    2300038: objSurfaceParking
+    2300040: objTree
+    2300042: objWall
+    2300044: objWater
+    3300000: objAreaFountain
+    3300002: objBench
+    3300004: objBollard
+    3300006: objBuilding
+    3300008: objBuildingEntrance
+    3300010: objBusStop
+    3300012: objChainLinkFence
+    3300014: objForest
+    3300016: objHedge
+    3300018: objPoleFence_MeshPart0
+    3300020: objPoleFence_MeshPart1
+    3300022: objPool
+    3300024: objRetainingWall
+    3300026: objRoad
+    3300028: objRoadArea
+    3300030: objRoadConnector
+    3300032: objRoadCrossingAtConnector
+    3300034: objRoadJunction
+    3300036: objSurfaceArea
+    3300038: objSurfaceParking
+    3300040: objTree
+    3300042: objWall
+    3300044: objWater
+    4300000: objRoadJunction
+    4300002: objBuildingEntrance
+    4300004: objBench
+    4300006: objRoadCrossingAtConnector
+    4300008: objBusStop
+    4300010: objTree
+    4300012: objRoadConnector
+    4300014: objBollard
+    4300016: objRoad
+    4300018: objPoleFence_MeshPart0
+    4300020: objPoleFence_MeshPart1
+    4300022: objHedge
+    4300024: objRetainingWall
+    4300026: objWall
+    4300028: objChainLinkFence
+    4300030: objBuilding
+    4300032: objSurfaceParking
+    4300034: objSurfaceArea
+    4300036: objRoadArea
+    4300038: objForest
+    4300040: objWater
+    4300042: objAreaFountain
+    4300044: objPool
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
